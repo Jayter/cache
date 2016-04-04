@@ -3,6 +3,10 @@ import java.util.Arrays;
 /**
  * Created by Nicki on 04.04.2016.
  */
+ 
+/**
+ * Used as a key by the storage.
+ */
 public class StorageKey
 {
     private Object caller;
